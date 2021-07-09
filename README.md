@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github repository](https://github.com/RafaelGLeal/Four-Cards-Feature-Section)
-- Live Site URL: [Live Site](https://rafaelgleal.github.io/Four-Cards-Feature-Section/)
+- Solution URL: [Github repository](https://rafaelgleal.github.io/Fylo-Dark-Theme/)
+- Live Site URL: [Live Site](https://rafaelgleal.github.io/Fylo-Dark-Theme/)
 
 ### Built with
 
