@@ -339,6 +339,7 @@ ul li {
   max-width: 90%;
   padding-top: 100px;
   position: relative;
+  padding-left: 30px;
 }
 
 .testimonials {
@@ -438,7 +439,7 @@ footer {
   margin-bottom: 10px;
 }
 .email-box form > input {
-  width: 300px;
+  width: 500px;
   height: 50px;
   border-radius: 50px;
   padding-left: 30px;
