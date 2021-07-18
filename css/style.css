@@ -508,10 +508,17 @@ footer {
 		max-width: 60%;
 		margin: 0 auto;
 	}
-	button {
+	.email-box input {
+		max-width: 90%;
+		margin: 10px auto;
+	}
+	.email-box button {
 		min-width: 90%;
 		margin: 0 auto;
-		margin-left: 10px !important;
+		
+	}
+	footer{
+		
 	}
 }
 /*--------------------*\
@@ -566,6 +573,7 @@ footer {
 	display: flex;
 	line-height: 40px;
 	max-width: 80%;
+	flex-wrap: wrap;
 }
 .ul-text2 {
 	padding-left: 60px;
@@ -603,8 +611,8 @@ footer {
 	font-size: 1.0rem;
 }
 @media only screen and (max-width: 700px) {
+	
 	.foot-logo {
-		margin-top: 300px;
 		max-width: 40%;
 	}
 	.footer-menu {
